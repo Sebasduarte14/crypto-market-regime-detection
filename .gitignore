@@ -11,3 +11,7 @@ wheels/
 .ipynb_checkpoints/
 data/raw/*.csv
 .env
+
+# Claude context (local only)
+CLAUDE.md
+.claude/
